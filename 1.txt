@@ -1,1 +1,3 @@
 tc1 control
+
+tc2 control
