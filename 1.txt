@@ -1,3 +1,6 @@
 tc1 control
+Sample test case: example
+Steps to reproduce:1,2,3
+
 
 tc2 control
