@@ -5,3 +5,5 @@ Steps to reproduce:1,2,3
 
 tc2 control
 new info for test
+
+tc3
